@@ -1,5 +1,11 @@
 ## DEMO 2
 
+<<<<<<< HEAD
 some TEXT
 
 Whats uppppppppp???????????
+=======
+some Text
+
+:/
+>>>>>>> feature
