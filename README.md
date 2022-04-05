@@ -1,11 +1,13 @@
 ## DEMO 2
-
-<<<<<<< HEAD
+HEAD
 some TEXT
 
 Whats uppppppppp???????????
-=======
 some Text
 
 :/
->>>>>>>feature
+ HEAD
+feature
+
+Lets have a cheerful day !!!!! 
+feature
